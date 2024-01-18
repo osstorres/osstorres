@@ -9,7 +9,7 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">Hello World!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
 
-### :woman_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 
 I am a Technical Lead Backend <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -73,6 +73,27 @@ I am a Technical Lead Backend <img src="https://media.giphy.com/media/WUlplcMpOC
 
 
 ---
-
-
 ### ✍️ Posts : 
+
+- [Antipatrones en el Desarrollo de Software](https://www.linkedin.com/pulse/antipatrones-en-el-desarrollo-de-software-osiel-jacobo-torres/?trackingId=%2BCAN38EqRomtlUHn8bIQ2Q%3D%3D) 📚
+  
+- [Docker: De Principiante a Experto](https://www.linkedin.com/pulse/docker-de-principiante-experto-osiel-jacobo-torres/?trackingId=%2BCAN38EqRomtlUHn8bIQ2Q%3D%3D) 🐳
+
+- [Gestión de Infraestructura](https://www.linkedin.com/pulse/gesti%25C3%25B3n-de-infraestructura-osiel-jacobo-torres/?trackingId=%2BCAN38EqRomtlUHn8bIQ2Q%3D%3D) ⚙️
+
+- [Hacia una Cultura DevOps](https://www.linkedin.com/pulse/hacia-una-cultura-devops-osiel-jacobo-torres/?trackingId=%2BCAN38EqRomtlUHn8bIQ2Q%3D%3D) 🚀
+
+- [Zen Developer (Almost)](https://www.linkedin.com/pulse/zen-developer-almost-osiel-jacobo-torres/?trackingId=%2BCAN38EqRomtlUHn8bIQ2Q%3D%3D) 🧘‍♂️
+
+- [Obtén Respuestas](https://www.linkedin.com/pulse/obt%25C3%25A9n-respuestas-osiel-jacobo-torres/?trackingId=%2BCAN38EqRomtlUHn8bIQ2Q%3D%3D) ❓
+
+- [Implementando 2FA en Django](https://www.linkedin.com/pulse/implementando-2fa-en-django-osiel-jacobo-torres/?trackingId=%2BCAN38EqRomtlUHn8bIQ2Q%3D%3D) 🔒
+
+- [Disfruta el Proceso](https://www.linkedin.com/pulse/disfruta-el-proceso-osiel-jacobo-torres/?trackingId=%2BCAN38EqRomtlUHn8bIQ2Q%3D%3D) 🎮
+
+- [Kubernetes: Teoría](https://www.linkedin.com/pulse/kubernetes-teor%25C3%25ADa-osiel-jacobo-torres/?trackingId=%2BCAN38EqRomtlUHn8bIQ2Q%3D%3D) ☁️
+
+- [El Equilibrio del Desarrollo de Software: Reflexiones desde la filosofía cruyffista](https://medium.com/@osieltorres_/el-equilibrio-del-desarrollo-de-software-reflexiones-desde-la-filosof%C3%ADa-cruyffista-2f556ce31ae2) 🤔
+
+- [La Arquitectura de Software y Desarrollo Backend para Startups](https://medium.com/@osieltorres_/la-arquitectura-de-software-y-desarrollo-backend-para-startups-1a9d9d07c2f) 🏗️
+
