@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=osstorres&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">Hello World!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
 
 ### :woman_technologist: &nbsp;About Me :
@@ -17,11 +17,17 @@ I am a Technical Lead Backend <img src="https://media.giphy.com/media/WUlplcMpOC
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I play videogames and write tech articles.
 - 📫 How to reach me:
+  <br> <!-- Add a line break to move the icons to the next line -->
+  <a href="https://www.linkedin.com/in/osiel-jacobo-torres/">
+    <img height="32" alt="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+  </a>
+  <a href="mailto:osieltorresdev@gmail.com">
+    <img height="32" align="left" alt="Gmail" src="https://img.shields.io/badge/-osieltorresdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
-
-# My Tech Stack
 
 ### Backend:
 
@@ -42,7 +48,8 @@ I am a Technical Lead Backend <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" />&nbsp;
-  <!-- Add more DevOps tools as needed -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="40" height="40" />&nbsp;
+
 </p>
 
 ### Databases:
@@ -53,7 +60,6 @@ I am a Technical Lead Backend <img src="https://media.giphy.com/media/WUlplcMpOC
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40" />&nbsp;
 
-  <!-- Add more database icons as needed -->
 </p>
 
 ### Monitoring:
@@ -63,7 +69,6 @@ I am a Technical Lead Backend <img src="https://media.giphy.com/media/WUlplcMpOC
      <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="grafana" alt="grafana" width="40" height="40" />&nbsp;
 
 
-  <!-- Add more monitoring tools/icons as needed -->
 </p>
 
 
